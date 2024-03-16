@@ -118,7 +118,7 @@
   text-decoration: underline;
 }
 
-/* Responsive Design */
+
 @media (max-width: 460px) {
   .container .login-box {
     width: 350px;
